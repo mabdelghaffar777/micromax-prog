@@ -1,0 +1,108 @@
+.cont{
+    background-color:#5ec1c5;
+    height: 470px;
+}
+.img{
+    width: 1250px;
+    height: 400px;
+    margin-top: 5%;
+}
+.txt{
+    color: #fff;
+    font-weight: 900;
+    margin-top: -250px;
+    margin-left: 70px;
+}
+.prg{
+font-size: 1.7rem;
+margin-left: 70px;
+color: #fff;
+}
+.qq{
+    
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50px;
+}
+.qq:hover{
+   animation: pulse;
+ animation-duration: 2s;
+ cursor: pointer;
+ box-shadow: 0 4px 20px 0 rgb(0 0 0 / 20%);
+ 
+}
+.tt{
+    text-align: center;
+    margin-top: -30px;
+    font-weight: 900;
+}
+.tools{
+    background-color: #f1f1f1;
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+.bb{
+width: 40px;
+height: 40px;
+}
+.bar{
+    width: 610px;
+height: 72px;
+background-color: #f1f1f1;
+margin-left:0;
+
+}
+.svg{
+    width: 28px;
+    height: 28px;
+margin-left: 30px;
+margin-top: 24px;
+}
+.pragtext{
+    text-align: right;
+    margin-left: 90px;
+}
+.pragbar2{
+    margin-left: 670px;
+    margin-top: -10px;
+}
+
+.pragbar2 input{
+    
+    height: 100%;
+color: #595f6e;
+padding-top: 20px;
+border: none;
+}
+.pragbar2 label{
+    position: absolute;
+    pointer-events: none;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-bottom: 1px solid black;
+}
+.ll{
+    background-color: #5f6062;
+ 
+
+}
+.fon{
+    color: #f1f1f1;
+    font-weight: 400;
+    font-size: 1.1rem;
+    margin-top: 10px;
+    margin-left: 32px;
+}
+.mm{
+    list-style: none;
+    font-size: 50px 17px;
+    color: #f1f1f1;
+    font-weight: 50;
+}
+.kk:hover{
+    color: #77cdd6;
+    cursor: pointer;
+}
